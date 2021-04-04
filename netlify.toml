@@ -1,11 +1,11 @@
 
 [[redirects]]
-  from = "/blue.html"
-  to = "/blue"
+  from = "/elements"
+  to = "/"
   status = 301
 
 [[redirects]]
   from = "/elements.html"
-  to = "/index.html"
+  to = "/"
   status = 301
   force = true
