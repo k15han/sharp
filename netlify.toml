@@ -3,9 +3,16 @@
   from = "/elements"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/elements.html"
   to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blue.html"
+  to = "/blue"
   status = 301
   force = true
