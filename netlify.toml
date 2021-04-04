@@ -16,3 +16,75 @@
   to = "/blue"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/dec.html"
+  to = "/dec"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/moon.html"
+  to = "/moon"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/lni.html"
+  to = "/lni"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/spring.html"
+  to = "/spring"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sailor.html"
+  to = "/sailor"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tb.html"
+  to = "/tb"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/tlb.html"
+  to = "/tlb"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/canvas.html"
+  to = "/canvas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cascade.html"
+  to = "/cascade"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/archive.html"
+  to = "/archive"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 301
+  force = true
