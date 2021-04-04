@@ -4,10 +4,10 @@
 /moon     /moon.html    200
 /tb       /tb.html      200
 /tlb      /tlb.html     200
-/blue     /blue.html    200
+/blue.html /blue
 /canvas   /canvas.html  200
 /lni      /lni.html     200
 /sailor   /sailor.html  200
 /spring   /spring.html  200
 /cascade  /cascade.html 200
-/         /elements.html 301
+/elements.html /
