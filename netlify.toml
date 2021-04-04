@@ -86,5 +86,4 @@
 [[redirects]]
   from = "/*"
   to = "/index"
-  status = 301
-  force = true
+  status = 200
