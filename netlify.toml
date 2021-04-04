@@ -1,0 +1,10 @@
+
+[[redirects]]
+  from = "/index.html"
+  to = "/index"
+  status = 301
+
+[[redirects]]
+  from = "/elements.html"
+  to = "/index.html"
+  status = 301
