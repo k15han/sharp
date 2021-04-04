@@ -54,6 +54,12 @@
   force = true
 
 [[redirects]]
+  from = "/snippets.html"
+  to = "/snippets"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/tb.html"
   to = "/tb"
   status = 301
