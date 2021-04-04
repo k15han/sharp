@@ -1,7 +1,7 @@
 
 [[redirects]]
-  from = "/index.html"
-  to = "/index"
+  from = "/blue.html"
+  to = "/blue"
   status = 301
 
 [[redirects]]
