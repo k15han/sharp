@@ -42,11 +42,6 @@
   force = true
 
 [[redirects]]
-  from = "/spring.html"
-  to = "/index.html"
-  status = 200
-
-[[redirects]]
   from = "/sailor.html"
   to = "/sailor"
   status = 301
