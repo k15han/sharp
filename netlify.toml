@@ -43,7 +43,7 @@
 
 [[redirects]]
   from = "/spring.html"
-  to = "/index"
+  to = "/"
   status = 301
   force = true
 
