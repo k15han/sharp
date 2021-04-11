@@ -43,7 +43,7 @@
 
 [[redirects]]
   from = "/spring.html"
-  to = "/"
+  to = "/index.html"
   status = 200
 
 [[redirects]]
